@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NLPRO  Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.922">
+  <properties />
+  
+  
+            <testcase name="performAction" time="16.200" classname="keyworddrivenframework.NlproTest" />
+                <testcase name="performAction" time="0.217" classname="keyworddrivenframework.NlproTest" />
+                <testcase name="performAction" time="4.348" classname="keyworddrivenframework.NlproTest" />
+                <testcase name="performAction" time="0.157" classname="keyworddrivenframework.NlproTest" />
+      
+</testsuite>
